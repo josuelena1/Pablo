@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CODIGO FINA PROYECTO ENCRIPTADO", "CODIGO FINA PROYECTO ENCRIPTADO.csproj", "{AA02F476-A0D0-4E7A-A66B-D94A82ED8174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA02F476-A0D0-4E7A-A66B-D94A82ED8174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA02F476-A0D0-4E7A-A66B-D94A82ED8174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA02F476-A0D0-4E7A-A66B-D94A82ED8174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA02F476-A0D0-4E7A-A66B-D94A82ED8174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1210692A-4A66-4FA8-A31C-E5C601B7D794}
+	EndGlobalSection
+EndGlobal
